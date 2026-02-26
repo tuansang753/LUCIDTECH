@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "portfolio": "Dự án",
+    "tech": "Công nghệ",
+    "team": "Đội ngũ",
+    "impact": "Tác động",
+    "contact": "Liên hệ",
+    "company": "Công ty",
+    "menu": "Menu"
+  },
+  "hero": {
+    "badge": "CÔNG NGHỆ THẾ HỆ MỚI",
+    "title": "Xây dựng tương lai &",
+    "highlight": "Thúc đẩy đổi mới kỹ thuật số",
+    "description": "Lucid Technology là công ty công nghệ chuyên về phát triển phần mềm, chuyển đổi số và dịch vụ tư vấn công nghệ. Chúng tôi tập trung xây dựng các hệ thống an toàn, có khả năng mở rộng và chất lượng cao, giúp các doanh nghiệp tối ưu hóa hoạt động và nâng cao lợi thế cạnh tranh trong kỷ nguyên số.",
+    "viewWork": "Xem dự án"
+  },
+  "overview": {
+    "title": "Tiên phong trong",
+    "highlight": "Biên giới kỹ thuật số",
+    "description": "Tại Lucidtech, chúng tôi không chỉ đi theo xu hướng—chúng tôi tạo ra chúng. Đội ngũ kỹ sư và nhà thiết kế chuyên gia của chúng tôi cộng tác để xây dựng các giải pháp vừa mạnh mẽ vừa đẹp mắt.",
+    "innovationHub": "Innovation Hub"
+  },
+  "ourTeam": {
+    "title": "Về",
+    "highlight": "Đội Ngũ",
+    "description": "Lucid Technology được vận hành bởi một đội ngũ mạnh mẽ và dày dặn kinh nghiệm, kết hợp giữa các chuyên gia lâu năm và những tài năng trẻ nhiệt huyết. Các thành viên cấp cao mang đến kinh nghiệm vững chắc trong gia công phần mềm và phát triển hệ thống quy mô lớn, trong khi các kỹ sư trẻ đóng góp những ý tưởng mới mẻ, năng lượng dồi dào và niềm đam mê mãnh liệt với công việc. Cùng nhau, chúng tôi cung cấp các giải pháp công nghệ tin cậy, có khả năng mở rộng và đổi mới cho khách hàng."
+  },
+  "services": {
+    "title": "Các",
+    "highlight": "Dịch vụ chính",
+    "description": "Chúng tôi cung cấp một loạt các dịch vụ toàn diện để giúp bạn xây dựng và mở rộng tầm nhìn kỹ thuật số của mình.",
+    "blockchain": {
+      "title": "Giải pháp Cây xăng Thông minh",
+      "description": "Một hệ thống phần mềm quản lý trạm xăng toàn diện được xây dựng trên hơn 30 năm kinh nghiệm thực tế trong ngành. Nó tích hợp quản lý bán hàng, kiểm soát hàng tồn kho, công nợ phải thu, quản lý nhân viên và báo cáo thời gian thực. Giao diện thân thiện với người dùng với tính năng đồng bộ hóa đa chi nhánh và sao lưu dữ liệu đám mây tự động."
+    },
+    "ai": {
+      "title": "Tư vấn Chuyển đổi số",
+      "description": "Cung cấp dịch vụ tư vấn chuyển đổi số toàn diện cho các doanh nghiệp vừa và nhỏ. Chúng tôi phân tích các quy trình hiện có, đề xuất các giải pháp công nghệ phù hợp, đào tạo nhân viên và hỗ trợ triển khai để giúp doanh nghiệp tối ưu hóa chi phí, nâng cao hiệu quả và lợi thế cạnh tranh."
+    },
+    "cloud": {
+      "title": "Phát triển Phần mềm theo yêu cầu",
+      "description": "Thiết kế và phát triển trang web, ứng dụng di động và phần mềm quản lý doanh nghiệp phù hợp với nhu cầu kinh doanh cụ thể. Đội ngũ phát triển giàu kinh nghiệm của chúng tôi am hiểu các quy trình kinh doanh và cung cấp các giải pháp tối ưu bằng công nghệ hiện đại, kèm theo bảo trì và hỗ trợ vận hành lâu dài."
+    },
+    "design": {
+      "title": "Dịch vụ Tuyển dụng & Cung ứng Nhân sự IT",
+      "description": "Hỗ trợ doanh nghiệp trong việc tìm kiếm và tuyển dụng nhân tài IT chất lượng cao. Chúng tôi cung cấp dịch vụ cung ứng nhân sự IT cho cả các dự án ngắn hạn và dài hạn, với các chuyên gia giàu kinh nghiệm trong phát triển phần mềm, quản trị hệ thống và bảo mật thông tin."
+    }
+  },
+  "stats": {
+    "delivered": "Dự án đã bàn giao thành công trên toàn cầu",
+    "assets": "Tổng tài sản được quản lý",
+    "nodes": "Các nút mạng đang hoạt động",
+    "speed": "Tốc độ giao dịch",
+    "uptime": "Cam kết thời gian hoạt động",
+    "moM": "Tăng trưởng 15% mỗi tháng",
+    "distributed": "Phân phối toàn cầu",
+    "industryLeading": "Dẫn đầu ngành",
+    "enterpriseGrade": "Cấp độ doanh nghiệp"
+  },
+  "portfolio": {
+    "title": "Các",
+    "highlight": "Dự án tiêu biểu",
+    "subtitle": "Một lựa chọn các dự án nơi sự xuất sắc về kỹ thuật kết hợp với tác động kinh doanh. Chúng tôi tự hào về từng dòng mã.",
+    "viewAll": "Xem tất cả công việc",
+    "viewCase": "Xem chi tiết dự án",
+    "contactCTA": "Liên hệ với chúng tôi ngay",
+    "nebula": {
+      "title": "Ví Nebula",
+      "description": "Ví tiền điện tử đa chuỗi, an toàn với khả năng hoán đổi tích hợp."
+    },
+    "vortex": {
+      "title": "Vortex Analytics",
+      "description": "Nền tảng trực quan hóa dữ liệu thời gian thực cho các bộ phận tiếp thị doanh nghiệp."
+    },
+    "titan": {
+      "title": "Titan Marketplace",
+      "description": "Thị trường cao cấp cho các tác phẩm nghệ thuật và vật phẩm kỹ thuật số cao cấp."
+    },
+    "page": {
+      "title": "Những",
+      "highlight": "Kiệt tác",
+      "subtitle": "Một cái nhìn toàn diện về chuyên môn kỹ thuật và cam kết xuất sắc của chúng tôi trong các ngành công nghiệp.",
+      "filterAll": "Tất cả",
+      "detailsButton": "Chi tiết"
+    },
+    "detail": {
+      "notFound": {
+        "title": "Không tìm thấy dự án",
+        "description": "Bài nghiên cứu tình huống bạn đang tìm kiếm không tồn tại hoặc đã bị di chuyển.",
+        "backButton": "Quay lại Portfolio"
+      },
+      "back": "Quay lại",
+      "caseStudy": "Dự án",
+      "challenge": {
+        "title": "Thách thức",
+        "description": "Việc phát triển {{title}} đặt ra những rào cản kỹ thuật độc nhất. Mục tiêu chính của chúng tôi là tạo ra một nền tảng có khả năng mở rộng, có thể xử lý khối lượng giao dịch lớn trong khi vẫn duy trì các tiêu chuẩn bảo mật cao nhất. Sự phức tạp bao gồm việc tích hợp nhiều hệ thống bên thứ ba mà không ảnh hưởng đến hiệu suất hoặc trải nghiệm người dùng."
+      },
+      "solution": {
+        "title": "Giải pháp của chúng tôi",
+        "description": "Bằng cách tận dụng kiến trúc serverless và tối ưu hóa WebGL chuyên sâu, chúng tôi đã cung cấp một giải pháp mạnh mẽ vượt qua sự mong đợi của khách hàng. Đội ngũ của chúng tôi tập trung vào mô hình thiết kế mô-đun, cho phép cập nhật dễ dàng và tính linh hoạt trong tương lai. Chúng tôi đã triển khai một lớp quản lý trạng thái tùy chỉnh giúp giảm đáng kể độ trễ trong cập nhật dữ liệu thời gian thực."
+      },
+      "results": {
+        "title": "Kết quả chính",
+        "list": [
+          "Tăng 40% Tương tác người dùng",
+          "Thời gian tải dưới một giây toàn cầu",
+          "Không có thời gian chết trong quá trình di chuyển",
+          "Giao thức bảo mật nâng cao"
+        ]
+      },
+      "technologies": "Công nghệ sử dụng",
+      "duration": "Thời gian",
+      "durationValue": "4 Tháng",
+      "service": "Dịch vụ",
+      "startProject": "Bắt đầu dự án tương tự"
+    }
+  },
+  "technologies": {
+    "title": "Được xây dựng với",
+    "highlight": "Công nghệ tốt nhất",
+    "stack": "",
+    "subtitle": "Lựa chọn công nghệ của chúng tôi được thúc đẩy bởi hiệu suất, khả năng mở rộng và trải nghiệm nhà phát triển. Chúng tôi luôn đi trước để bạn không phải lo lắng.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Web3": "Web3",
+      "AI & Machine Learning": "AI & Machine Learning",
+      "Cloud & DevOps": "Cloud & DevOps",
+      "Mobile Development": "Mobile Development"
+    }
+  },
+  "team": {
+    "title": "Gặp gỡ những",
+    "highlight": "Người có tầm nhìn",
+    "subtitle": "Đội ngũ đa dạng của chúng tôi kết hợp hàng thập kỷ kinh nghiệm trong kỹ thuật phần mềm, thiết kế 3D và các hệ thống phi tập trung.",
+    "sections": {
+      "technical": "Lãnh đạo Kỹ thuật",
+      "leadership": "Ban lãnh đạo",
+      "development": "Đội ngũ Phát triển"
+    },
+    "members": {
+      "henry": "Henry",
+      "steven": "Steven",
+      "johnb": "JohnB",
+      "rinyal": "Rinyal",
+      "dora": "Dora Ho",
+      "emily": "Emily",
+      "jayden": "Jayden Ngo",
+      "mat": "Mat"
+    },
+    "roles": {
+      "technicalLeader": "Trưởng nhóm Kỹ thuật",
+      "leader": "Lãnh đạo",
+      "developer": "Lập trình viên",
+      "devops": "Kỹ sư DevOps",
+      "tester": "Kiểm thử viên"
+    },
+    "collaboration": {
+      "title": "Sự xuất sắc trong cộng tác",
+      "description": "Chúng tôi tin rằng những sản phẩm tốt nhất được xây dựng thông qua giao tiếp cởi mở và niềm đam mê chung đối với công nghệ."
+    },
+    "leo": {
+      "name": "Leo Sterling",
+      "role": "Giám đốc điều hành & Người sáng lập",
+      "bio": "Nhà lãnh đạo có tầm nhìn với hơn 15 năm kinh nghiệm trong ngành công nghệ."
+    },
+    "sarah": {
+      "name": "Sarah Chen",
+      "role": "Giám đốc kỹ thuật",
+      "bio": "Cựu kiến trúc sư của Google chuyên về các hệ thống phân tán."
+    },
+    "marcus": {
+      "name": "Marcus Vane",
+      "role": "Trưởng bộ phận thiết kế",
+      "bio": "Nhà thiết kế đoạt giải thưởng với sự ám ảnh về sự hoàn hảo trong từng pixel."
+    }
+  },
+  "contact": {
+    "title": "Hãy cùng",
+    "highlight": "Kết nối",
+    "subtitle": "Bạn có một ý tưởng đột phá hay một thách thức kỹ thuật phức tạp? Chúng tôi sẵn sàng giúp bạn xây dựng tương lai.",
+    "form": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "name": "Họ và tên",
+      "email": "Địa chỉ Email",
+      "phone": "Số điện thoại",
+      "subject": "Chủ đề",
+      "message": "Nội dung",
+      "namePlaceholder": "Nguyễn Văn A",
+      "emailPlaceholder": "email@example.com",
+      "phonePlaceholder": "0901234567",
+      "subjectPlaceholder": "Yêu cầu dự án",
+      "messagePlaceholder": "Hãy kể cho chúng tôi về dự cá nhân bạn...",
+      "submit": "Gửi tin nhắn",
+      "required_error": "Vui lòng điền đầy đủ các thông tin bắt buộc"
+    },
+    "success": {
+      "title": "Tin nhắn đã được gửi!",
+      "message": "Cảm ơn bạn đã liên hệ. Đội ngũ của chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+      "another": "Gửi tin nhắn khác"
+    },
+    "info": {
+      "email": "Gửi Email",
+      "phone": "Gọi cho chúng tôi",
+      "visit": "Ghé thăm chúng tôi"
+    }
+  },
+  "footer": {
+    "tagline": "Xây dựng thế hệ ứng dụng phi tập trung tiếp theo.",
+    "rights": "Bản quyền đã được bảo lưu.",
+    "description": "Xây dựng thế hệ ứng dụng phi tập trung tiếp theo và trải nghiệm kỹ thuật số nhập vai.",
+    "explore": "Khám phá",
+    "resources": "Tài nguyên",
+    "stayUpdated": "Cập nhật",
+    "newsletter": "Đăng ký nhận bản tin của chúng tôi để cập nhật những thông tin mới nhất về công nghệ.",
+    "newsletter_placeholder": "Nhập email của bạn",
+    "newsletter_button": "Đăng ký",
+    "documentation": "Tài liệu",
+    "support": "Hỗ trợ",
+    "privacy": "Chính sách bảo mật",
+    "copyright": "Bản quyền đã được bảo lưu."
+  }
+}
+

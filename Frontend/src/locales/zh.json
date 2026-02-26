@@ -1,0 +1,222 @@
+{
+  "nav": {
+    "about": "关于",
+    "services": "服务",
+    "portfolio": "作品集",
+    "tech": "技术",
+    "team": "团队",
+    "impact": "影响",
+    "contact": "联系我们",
+    "company": "公司",
+    "menu": "菜单"
+  },
+  "hero": {
+    "badge": "下一代技术",
+    "title": "构建未来 &",
+    "highlight": "推动数字创新发展",
+    "description": "Lucid Technology 是一家专注于软件开发、数字化转型和技术咨询服务的技术公司。我们致力于构建安全、可扩展且高质量的系统，帮助企业在数字时代优化运营并提升竞争优势。",
+    "viewWork": "查看作品集"
+  },
+  "overview": {
+    "title": "开拓",
+    "highlight": "数字前沿",
+    "description": "Lucid Technology 拥有一支实力雄厚且经验丰富的团队，融合了资深专业人士与充满热情的年轻人才。我们的高级成员在软件外包和大型系统开发方面拥有扎实的经验，而年轻工程师则带来新颖的想法、高昂的热情和对工作的强烈投入。我们携手为客户提供可靠、可扩展且创新的技术解决方案。",
+    "innovationHub": "创新中心"
+  },
+  "services": {
+    "title": "我们的",
+    "highlight": "核心服务",
+    "description": "我们提供全方位的服务，帮助您构建和扩展您的数字愿景。",
+    "blockchain": {
+      "title": "智能加油站解决方案",
+      "description": "一套基于 30 多年行业实战经验构建的全方位加油站管理软件系统。集成了销售管理、库存控制、应收账款、员工管理和实时报告。用户界面友好，支持多网点同步和云端自动数据备份。"
+    },
+    "ai": {
+      "title": "数字化转型咨询",
+      "description": "为中小企业提供端到端的数字化转型咨询服务。我们分析现有流程，提出合适的技术解决方案，提供员工培训，并支持实施，帮助企业优化成本、提高效率并增强竞争优势。"
+    },
+    "cloud": {
+      "title": "定制软件开发",
+      "description": "根据特定业务需求设计和开发网站、移动应用程序和企业管理软件。我们经验丰富的开发团队了解业务流程，并使用现代技术提供最佳解决方案，提供长期维护和运营支持。"
+    },
+    "design": {
+      "title": "IT 招聘与人员配备服务",
+      "description": "支持企业寻找和招聘高质量的 IT 人才。我们为项目制和长期聘用提供 IT 人员配备服务，拥有软件开发、系统管理和信息安全方面的资深专业人士。"
+    }
+  },
+  "stats": {
+    "delivered": "全球成功交付的项目",
+    "assets": "管理资产总额",
+    "nodes": "活跃网络节点",
+    "speed": "交易速度",
+    "uptime": "运行时间 SLA",
+    "moM": "环比增长 15%",
+    "distributed": "全球分布",
+    "industryLeading": "行业领先",
+    "enterpriseGrade": "企业级"
+  },
+  "portfolio": {
+    "title": "我们的",
+    "highlight": "出色作品集",
+    "subtitle": "精选的技术卓越与商业影响相结合的项目。我们为每一行代码感到自豪。",
+    "viewAll": "查看所有工作",
+    "viewCase": "查看案例研究",
+    "contactCTA": "立即联系我们",
+    "nebula": {
+      "title": "Nebula 钱包",
+      "description": "一个安全的多链加密货币钱包，内置交换功能。"
+    },
+    "vortex": {
+      "title": "Vortex 分析",
+      "description": "为企业营销团队提供的实时数据可视化平台。"
+    },
+    "titan": {
+      "title": "Titan 市场",
+      "description": "高端数字收藏品和艺术品的高级市场。"
+    },
+    "page": {
+      "title": "我们的",
+      "highlight": "杰作",
+      "subtitle": "全面展示我们在各行业的技术专长和对卓越的承诺。",
+      "filterAll": "全部",
+      "detailsButton": "详情"
+    },
+    "detail": {
+      "notFound": {
+        "title": "未找到项目",
+        "description": "您查找的案例研究不存在或已被移动。",
+        "backButton": "返回作品集"
+      },
+      "back": "返回",
+      "caseStudy": "案例研究",
+      "challenge": {
+        "title": "挑战",
+        "description": "开发 {{title}} 带来了独特的技术障碍。我们的主要目标是创建一个可扩展的平台，能够处理高交易量，同时保持最高的安全标准。复杂性包括集成多个第三方系统，而不影响性能或用户体验。"
+      },
+      "solution": {
+        "title": "我们的解决方案",
+        "description": "通过利用无服务器架构和深入的 WebGL 优化，我们提供了超出客户预期的强大解决方案。我们的团队专注于模块化设计模式，允许轻松更新和未来的功能弹性。我们实施了一个自定义状态管理层，显着降低了实时数据更新的延迟。"
+      },
+      "results": {
+        "title": "主要成果",
+        "list": [
+          "用户参与度增加 40%",
+          "全球亚秒级加载时间",
+          "迁移期间零停机",
+          "增强的安全协议"
+        ]
+      },
+      "technologies": "使用的技术",
+      "duration": "工期",
+      "durationValue": "4 个月",
+      "service": "服务",
+      "startProject": "启动类似项目"
+    }
+  },
+  "technologies": {
+    "title": "采用",
+    "highlight": "最佳技术栈",
+    "stack": "",
+    "subtitle": "我们的技术选择由性能、可扩展性和开发人员体验驱动。我们保持领先，让您无需费心。",
+    "categories": {
+      "Frontend": "前端",
+      "Backend": "后端",
+      "Web3": "Web3",
+      "AI & Machine Learning": "AI 与机器学习",
+      "Cloud & DevOps": "云与 DevOps",
+      "Mobile Development": "移动开发"
+    }
+  },
+  "team": {
+    "title": "遇见",
+    "highlight": "愿景家",
+    "subtitle": "我们的多元化团队结合了数十年的软件工程、3D 设计和去中心化系统经验。",
+    "sections": {
+      "technical": "技术领导者",
+      "leadership": "领导层",
+      "development": "开发团队"
+    },
+    "members": {
+      "henry": "Henry",
+      "steven": "Steven",
+      "johnb": "JohnB",
+      "rinyal": "Rinyal",
+      "dora": "Dora Ho",
+      "emily": "Emily",
+      "jayden": "Jayden Ngo",
+      "mat": "Mat"
+    },
+    "roles": {
+      "technicalLeader": "技术负责人",
+      "leader": "领导者",
+      "developer": "开发人员",
+      "devops": "DevOps 工程师",
+      "tester": "测试员"
+    },
+    "collaboration": {
+      "title": "卓越协作",
+      "description": "我们相信，最好的产品是通过开放的沟通和对技术的共同热情构建的。"
+    },
+    "leo": {
+      "name": "Leo Sterling",
+      "role": "首席执行官兼创始人",
+      "bio": "拥有 15 年以上科技行业经验的有远见的领导者。"
+    },
+    "sarah": {
+      "name": "Sarah Chen",
+      "role": "首席技术官",
+      "bio": "前 Google 架构师，专注于分布式系统。"
+    },
+    "marcus": {
+      "name": "Marcus Vane",
+      "role": "设计主管",
+      "bio": "痴迷于像素完美的获奖设计师。"
+    }
+  },
+  "contact": {
+    "title": "让我们",
+    "highlight": "建立联系",
+    "subtitle": "有一个开创性的想法或复杂的技术挑战？我们准备好帮助您构建未来。",
+    "form": {
+      "title": "给我们留言",
+      "name": "全名",
+      "email": "电子邮件地址",
+      "phone": "电话号码",
+      "subject": "主题",
+      "message": "信息",
+      "namePlaceholder": "张三",
+      "emailPlaceholder": "zhangsan@example.com",
+      "phonePlaceholder": "13800138000",
+      "subjectPlaceholder": "项目咨询",
+      "messagePlaceholder": "告诉我们您的项目...",
+      "submit": "发送信息",
+      "required_error": "请填写所有必填字段。"
+    },
+    "success": {
+      "title": "信息已发送！",
+      "message": "感谢您的联系。我们的团队将在 24 小时内回复您。",
+      "another": "发送另一条信息"
+    },
+    "info": {
+      "email": "发邮件给我们",
+      "phone": "致电我们",
+      "visit": "访问我们"
+    }
+  },
+  "footer": {
+    "tagline": "构建下一代去中心化应用。",
+    "rights": "版权所有。",
+    "description": "我们构建下一代去中心化应用和沉浸式数字体验。",
+    "explore": "探索",
+    "resources": "资源",
+    "stayUpdated": "保持更新",
+    "newsletter": "订阅我们的通讯，获取最新更新和技术见解。",
+    "newsletter_placeholder": "输入您的电子邮件",
+    "newsletter_button": "订阅",
+    "documentation": "文档",
+    "status": "状态",
+    "privacy": "隐私政策",
+    "copyright": "版权所有。"
+  }
+}
+

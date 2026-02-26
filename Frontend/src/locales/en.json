@@ -1,0 +1,226 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "tech": "Tech",
+    "team": "Team",
+    "impact": "Impact",
+    "contact": "Contact Us",
+    "company": "Company",
+    "menu": "Menu"
+  },
+  "hero": {
+    "badge": "NEXT GENERATION TECHNOLOGY",  
+    "title": "Building the Future &",
+    "highlight": "Empowering Digital Innovation",
+    "description": "Lucid Technology is a technology company specializing in software development, digital transformation, and technology consulting services. We focus on building secure, scalable, and high-quality systems that help businesses optimize operations and enhance their competitive advantage in the digital era",
+    "viewWork": "View Portfolio"
+  },
+  "overview": {
+    "title": "Pioneering the",
+    "highlight": "Digital Frontier",
+    "description": "At Lucid Technology, we don't just follow trends—we set them. Our team of expert engineers and designers collaborate to build solutions that are as robust as they are beautiful.",
+    "innovationHub": "Innovation Hub"
+  },
+  "ourTeam": {
+    "title": "About",
+    "highlight": "Our Team",
+    "description": "Lucid Technology is powered by a strong and experienced team that combines seasoned professionals with enthusiastic young talents. Our senior members bring solid experience in software outsourcing and large-scale system development, while our young engineers contribute fresh ideas, high energy, and a strong passion for their work. Together, we deliver reliable, scalable, and innovative technology solutions for our clients."
+  },
+  "services": {
+    "title": "Our",
+    "highlight": "Core Services",
+    "description": "We offer a comprehensive suite of services to help you build and scale your digital vision.",
+    "blockchain": {
+      "title": "Smart Gas Station Solution",
+      "description": "A comprehensive gas station management software system built on over 30 years of real-world industry experience. It integrates sales management, inventory control, accounts receivable, employee management, and real-time reporting. User-friendly interface with multi-branch synchronization and automatic cloud data backup."
+    },
+    "ai": {
+      "title": "Digital Transformation Consulting",
+      "description": "Providing end-to-end digital transformation consulting services for small and medium-sized enterprises. We analyze existing processes, propose suitable technology solutions, provide staff training, and support implementation to help businesses optimize costs, improve efficiency, and enhance competitive advantages."
+    },
+    "cloud": {
+      "title": "Custom Software Development",
+      "description": "Design and development of websites, mobile applications, and enterprise management software tailored to specific business needs. Our experienced development team understands business processes and provides optimal solutions using modern technologies, with long-term maintenance and operational support."
+    },
+    "design": {
+      "title": "IT Recruitment & Staffing Services",
+      "description": "Supporting businesses in sourcing and recruiting high-quality IT talent. We provide IT staffing services for both project-based and long-term engagements, with experienced professionals in software development, system administration, and information security."
+    }
+  },
+  "stats": {
+    "delivered": "Successful Projects Delivered Globally",
+    "assets": "Total Assets Managed",
+    "nodes": "Active Network Nodes",
+    "speed": "Transaction Speed",
+    "uptime": "Uptime SLA",
+    "moM": "Growing 15% MoM",
+    "distributed": "Globally Distributed",
+    "industryLeading": "Industry Leading",
+    "enterpriseGrade": "Enterprise Grade"
+  },
+  "portfolio": {
+    "title": "Our",
+    "highlight": "Stellar Portfolio",
+    "subtitle": "A selection of projects where technical excellence meets business impact. We take pride in every line of code.",
+    "viewAll": "View All Work",
+    "viewCase": "View Case Study",
+    "contactCTA": "Contact Us Now",
+    "nebula": {
+      "title": "Nebula Wallet",
+      "description": "A secure, multi-chain cryptocurrency wallet with built-in swapping."
+    },
+    "vortex": {
+      "title": "Vortex Analytics",
+      "description": "Real-time data visualization platform for enterprise marketing teams."
+    },
+    "titan": {
+      "title": "Titan Marketplace",
+      "description": "A premium marketplace for high-end digital collectibles and art."
+    },
+    "page": {
+      "title": "Our",
+      "highlight": "Masterpieces",
+      "subtitle": "A comprehensive showcase of our technical expertise and commitment to excellence across various industries.",
+      "filterAll": "All",
+      "detailsButton": "Details"
+    },
+    "detail": {
+      "notFound": {
+        "title": "Project Not Found",
+        "description": "The case study you are looking for does not exist or has been moved.",
+        "backButton": "Back to Portfolio"
+      },
+      "back": "Back",
+      "caseStudy": "Case Study",
+      "challenge": {
+        "title": "The Challenge",
+        "description": "Developing {{title}} presented unique technical hurdles. Our primary objective was to create a scalable platform that could handle high transaction volumes while maintaining peak security standards. The complexity involved integrating multiple third-party systems without compromising on performance or user experience."
+      },
+      "solution": {
+        "title": "Our Solution",
+        "description": "By leveraging a serverless architecture and intensive WebGL optimizations, we delivered a robust solution that exceeded the client's expectations. Our team focused on a modular design pattern, allowing for easy updates and future feature elasticity. We implemented a custom state management layer that significantly reduced latency in real-time data updates."
+      },
+      "results": {
+        "title": "Key Results",
+        "list": [
+          "40% Increase in User Engagement",
+          "Sub-second Load Times Globally",
+          "Zero Downtime During Migration",
+          "Enhanced Security Protocols"
+        ]
+      },
+      "technologies": "Technologies Used",
+      "duration": "Duration",
+      "durationValue": "4 Months",
+      "service": "Service",
+      "startProject": "Start Similar Project"
+    }
+  },
+  "technologies": {
+    "title": "Built with the",
+    "highlight": "Best-in-Class",
+    "stack": "Stack",
+    "subtitle": "Our technology choices are driven by performance, scalability, and developer experience. We stay ahead of the curve so you don't have to.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Web3": "Web3",
+      "AI & Machine Learning": "AI & Machine Learning",
+      "Cloud & DevOps": "Cloud & DevOps",
+      "Mobile Development": "Mobile Development"
+    }
+  },
+  "team": {
+    "title": "Meet the",
+    "highlight": "Visionaries",
+    "subtitle": "Our diverse team combines decades of experience in software engineering, 3D design, and decentralized systems.",
+    "sections": {
+      "technical": "Technical Leaders",
+      "leadership": "Leadership",
+      "development": "Development Team"
+    },
+    "members": {
+      "henry": "Henry",
+      "steven": "Steven",
+      "johnb": "JohnB",
+      "rinyal": "Rinyal",
+      "dora": "Dora Ho",
+      "emily": "Emily",
+      "jayden": "Jayden Ngo",
+      "mat": "Mat"
+    },
+    "roles": {
+      "technicalLeader": "Technical Leader",
+      "leader": "Leader",
+      "developer": "Developer",
+      "devops": "DevOps Engineer",
+      "tester": "Tester"
+    },
+    "collaboration": {
+      "title": "Collaborative Excellence",
+      "description": "We believe that the best products are built through open communication and shared passion for technology."
+    },
+    "leo": {
+      "name": "Leo Sterling",
+      "role": "CEO & Founder",
+      "bio": "Visionary leader with 15+ years in the tech industry."
+    },
+    "sarah": {
+      "name": "Sarah Chen",
+      "role": "CTO",
+      "bio": "Former Google architect specializing in distributed systems."
+    },
+    "marcus": {
+      "name": "Marcus Vane",
+      "role": "Head of Design",
+      "bio": "Award-winning designer obsessed with pixel-perfection."
+    }
+  },
+  "contact": {
+    "title": "Let's",
+    "highlight": "Connect",
+    "subtitle": "Have a groundbreaking idea or a complex technical challenge? We're ready to help you build the future.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "subjectPlaceholder": "Project Inquiry",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "required_error": "Please fill in all required fields."
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for reaching out. Our team will get back to you within 24 hours.",
+      "another": "Send another message"
+    },
+    "info": {
+      "email": "Email Us",
+      "phone": "Call Us",
+      "visit": "Visit Us"
+    }
+  },
+  "footer": {
+    "tagline": "Building the next generation of decentralized applications.",
+    "rights": "All rights reserved.",
+    "description": "Building the next generation of decentralized applications and immersive digital experiences.",
+    "explore": "Explore",
+    "resources": "Resources",
+    "stayUpdated": "Stay Updated",
+    "newsletter": "Subscribe to our newsletter for the latest updates and tech insights.",
+    "newsletter_placeholder": "Enter your email",
+    "newsletter_button": "Subscribe",
+    "documentation": "Documentation",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "copyright": "All rights reserved."
+  }
+}

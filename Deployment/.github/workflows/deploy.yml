@@ -1,0 +1,49 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build_deploy:
+    name: Build & Deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: Install Dependencies & Build Frontend
+        working-directory: ./Frontend
+        run: |
+          npm ci
+          npm run build
+          
+      - name: Deploy via SSH to Ubuntu Server
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          script: |
+            cd /path/to/project
+            # Backup & Pull latest changes
+            git fetch --all
+            git reset --hard origin/main
+            
+            # Navigate to Deployment architecture folder
+            cd Deployment
+            
+            # Restart containers and build new images
+            docker-compose down
+            docker-compose up -d --build
