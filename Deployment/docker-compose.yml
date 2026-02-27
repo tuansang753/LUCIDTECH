@@ -35,6 +35,15 @@ services:
     ports:
       - "5433:5432"
 
+  adminer:
+    image: adminer
+    container_name: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
   email:
     image: axllent/mailpit
     container_name: mailpit
