@@ -79,6 +79,13 @@ services:
     ports:
       - "9090:9090"
 
+  node_exporter:
+    image: prom/node-exporter:latest
+    container_name: node_exporter
+    restart: always
+    ports:
+      - "9100:9100"
+
   grafana:
     image: grafana/grafana:latest
     container_name: grafana
