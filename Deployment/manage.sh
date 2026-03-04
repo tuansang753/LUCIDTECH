@@ -19,6 +19,9 @@ function show_help {
     echo "  logs-web  : Xem log trực tiếp của riêng ứng dụng Web Next.js"
     echo "  shell-web : Truy cập dòng lệnh vào bên trong máy chủ Next.js"
     echo "  shell-db  : Truy cập màn hình dòng lệnh SQL vào PostgreSQL"
+    echo "  backup-db : Sao lưu CSDL PostgreSQL thủ công"
+    echo "  restore-db: Phục hồi CSDL PostgreSQL từ file sao lưu"
+    echo "  deploy    : Cập nhật image mới từ Registry và khởi động chạy Docker Compose"
     echo ""
 }
 
@@ -56,6 +59,28 @@ case "$1" in
     shell-db)
         echo "[+] Đang mở Console Database PostgreSQL (gõ \q để thoát)..."
         docker compose exec db psql -U user -d webapp
+        ;;
+    backup-db)
+        echo "[+] Đang tiến hành sao lưu Database..."
+        mkdir -p backups
+        FILE_NAME="backups/db_backup_$(date +%Y%m%d_%H%M%S).sql"
+        docker compose exec -T db pg_dump -U user -d webapp -F plain > "$FILE_NAME"
+        echo "[+] Đã sao lưu thành công tại: $FILE_NAME"
+        ;;
+    restore-db)
+        if [ -z "$2" ]; then
+            echo "[-] Lỗi: Cần cung cấp đường dẫn file backup."
+            echo "[-] Lệnh mẫu: ./manage.sh restore-db backups/db_backup_xyz.sql"
+            exit 1
+        fi
+        echo "[+] Đang tiến hành phục hồi Database từ file $2..."
+        docker compose exec -T db psql -U user -d webapp < "$2"
+        echo "[+] Phục hồi dữ liệu hoàn tất!"
+        ;;
+    deploy)
+        echo "[+] Đang lấy image mới nhất từ Registry và cập nhật hệ thống..."
+        docker compose pull
+        docker compose up -d
         ;;
     *)
         show_help
