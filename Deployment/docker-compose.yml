@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   webapp:
-    image: ${DOCKER_REGISTRY:-truongtuansang}/lucidtech-webapp:${IMAGE_TAG:-latest}
+    image: ${DOCKER_REGISTRY:-tuansang2004}/lucidtech-webapp:${IMAGE_TAG:-latest}
     build:
       context: ../Frontend
       dockerfile: Dockerfile
@@ -53,7 +53,7 @@ services:
       - "1025:1025" # SMTP 
 
   nginx:
-    image: ${DOCKER_REGISTRY:-truongtuansang}/lucidtech-nginx:${IMAGE_TAG:-latest}
+    image: ${DOCKER_REGISTRY:-tuansang2004}/lucidtech-nginx:${IMAGE_TAG:-latest}
     build:
       context: ./nginx
       dockerfile: Dockerfile
